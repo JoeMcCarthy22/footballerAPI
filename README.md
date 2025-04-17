@@ -15,3 +15,5 @@ Dynamic API route: /api/:name returns player stats (e.g., /api/messi)
 Hosted on Render with proper static file handling
 
 Skills shown: REST API design, Express routing, static file serving, deployment with environment-aware ports
+
+![Footballer API Screenshot](https://res.cloudinary.com/dlv6rz50o/image/upload/v1744926330/footballerapi_mxqfla.png)
